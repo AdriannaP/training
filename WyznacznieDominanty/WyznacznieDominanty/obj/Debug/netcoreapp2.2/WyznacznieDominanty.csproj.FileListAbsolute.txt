@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\bin\Debug\netcoreapp2.2\WyznacznieDominanty.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\bin\Debug\netcoreapp2.2\WyznacznieDominanty.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\bin\Debug\netcoreapp2.2\WyznacznieDominanty.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\bin\Debug\netcoreapp2.2\WyznacznieDominanty.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\bin\Debug\netcoreapp2.2\WyznacznieDominanty.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\WyznacznieDominanty\WyznacznieDominanty\obj\Debug\netcoreapp2.2\WyznacznieDominanty.pdb

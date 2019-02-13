@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\bin\Debug\netcoreapp2.2\4.SzukanieMinMax.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\bin\Debug\netcoreapp2.2\4.SzukanieMinMax.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\bin\Debug\netcoreapp2.2\4.SzukanieMinMax.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\bin\Debug\netcoreapp2.2\4.SzukanieMinMax.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\bin\Debug\netcoreapp2.2\4.SzukanieMinMax.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\4.SzukanieMinMax\4.SzukanieMinMax\obj\Debug\netcoreapp2.2\4.SzukanieMinMax.pdb

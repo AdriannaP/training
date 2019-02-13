@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\bin\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\bin\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\bin\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\bin\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\bin\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\5.SzukanieZadanegoElem\5.SzukanieZadanegoElem\obj\Debug\netcoreapp2.2\5.SzukanieZadanegoElem.pdb

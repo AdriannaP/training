@@ -1,0 +1,10 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\bin\Debug\netcoreapp2.2\13.TestParzystości.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\bin\Debug\netcoreapp2.2\13.TestParzystości.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\bin\Debug\netcoreapp2.2\13.TestParzystości.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\bin\Debug\netcoreapp2.2\13.TestParzystości.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\bin\Debug\netcoreapp2.2\13.TestParzystości.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\obj\Debug\netcoreapp2.2\13.TestParzystości.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\obj\Debug\netcoreapp2.2\13.TestParzystości.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\obj\Debug\netcoreapp2.2\13.TestParzystości.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\obj\Debug\netcoreapp2.2\13.TestParzystości.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\13.TestParzystości\13.TestParzystości\obj\Debug\netcoreapp2.2\13.TestParzystości.pdb

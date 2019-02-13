@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\bin\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\bin\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\bin\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\bin\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\bin\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\7,Szukaniepołwkowe(binarne)\7,Szukaniepołwkowe(binarne)\obj\Debug\netcoreapp2.2\7,Szukaniepołwkowe(binarne).pdb

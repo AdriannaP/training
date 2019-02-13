@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\bin\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\bin\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\bin\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\bin\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\bin\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\3.ZaliczanieWystąpieńElementuWTab\3.ZaliczanieWystąpieńElementuWTab\obj\Debug\netcoreapp2.2\3.ZaliczanieWystąpieńElementuWTab.pdb

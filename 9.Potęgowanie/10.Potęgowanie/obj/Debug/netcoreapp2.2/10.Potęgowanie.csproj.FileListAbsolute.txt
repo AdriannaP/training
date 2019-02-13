@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\bin\Debug\netcoreapp2.2\10.Potęgowanie.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\bin\Debug\netcoreapp2.2\10.Potęgowanie.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\bin\Debug\netcoreapp2.2\10.Potęgowanie.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\bin\Debug\netcoreapp2.2\10.Potęgowanie.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\bin\Debug\netcoreapp2.2\10.Potęgowanie.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\10.Potęgowanie\10.Potęgowanie\obj\Debug\netcoreapp2.2\10.Potęgowanie.pdb

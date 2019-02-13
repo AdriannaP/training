@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\bin\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\bin\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\bin\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\bin\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\bin\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\12.ŚrdeniaArytmertyczna\12.ŚrdeniaArytmertyczna\obj\Debug\netcoreapp2.2\12.ŚrdeniaArytmertyczna.pdb

@@ -1,0 +1,11 @@
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\bin\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.deps.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\bin\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.runtimeconfig.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\bin\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.runtimeconfig.dev.json
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\bin\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\bin\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.pdb
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.csprojAssemblyReference.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.csproj.CoreCompileInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.AssemblyInfoInputs.cache
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.AssemblyInfo.cs
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.dll
+C:\Users\Adrianna\Documents\Visual Studio 2017\Folder z nowymi programami\8.SumaCyfrLiczbyCałkowitej\8.SumaCyfrLiczbyCałkowitej\obj\Debug\netcoreapp2.2\8.SumaCyfrLiczbyCałkowitej.pdb
