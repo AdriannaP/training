@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace WyznacznieDominanty
 {
@@ -6,21 +7,42 @@ namespace WyznacznieDominanty
     {
         static void Main(string[] args)
         {
-            int[] T = new int[8] { 1, 4, 6, 5, 1, 1, 5, 4 };
-            int[] L = new int[8];
-            int[] W = new int[8];
-            int n = T.Length;
+            List<int> T = new List<int>() { 1, 4, 6, 5, 1, 1, 5, 4 };
+            List<int> L = new List<int>();
+            List<int> W = new List<int>();
+            int n = T.Count;
 
-            for (int i = 0; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-
-                if (T[i] == T[i + 1])
+                if (L.Contains(T[i]))
                 {
-                    L[0] = W[0];
-                    W{ ++}
+                    int index = L.IndexOf(T[i]);
+                    W[index]++;
+                }
+                {
+                    L.Add(T[i]);
+                    W.Add(1);
                 }
             }
 
+            int indexOfMaxValue = IndexOfMaxValue(W);
+            Console.WriteLine(T[indexOfMaxValue]);
+            Console.ReadLine();
+        }
+
+        private static int IndexOfMaxValue(List<int> w)
+        {
+            int maxValue = w[0];
+
+            for(int i = 1; i< w.Count; i++)
+            {
+                if(maxValue < w[i])
+                {
+                    maxValue = w[i];
+                }
+            }
+
+            return w.IndexOf(maxValue);
         }
     }
 }
